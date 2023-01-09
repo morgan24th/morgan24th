@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @morgan24TH
+- 👋 Hi, I’m Morgan24TH
 - 👀 I’m interested in Web Development, Mobile Apps and a bit of Desktop Apps. I'm a JavaScript Developer though.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on any JavaScript project
