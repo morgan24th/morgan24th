@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Morgan24TH
-- 👀 I’m interested in Web Development, Mobile Apps and a bit of Desktop Apps. I'm a JavaScript Developer though.
-- 🌱 I’m a proud JavaScript developer.
-- 💞️ I’m looking to collaborate on any JavaScript project
+- 👀 I’m interested in Web Development and Mobile Apps.
+- 🌱 I’m a proud JavaScript/TypeScript developer.
+- 💞️ I’m looking to collaborate on any JavaScript/TypeScript project
 - 📫 You can reach me on Twitter or Instagram: morgan24th
 
 <!---
