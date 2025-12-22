@@ -25,6 +25,12 @@ I ship real products.
 - Native performance with JavaScript efficiency
 - Shared codebases with web applications
 
+**Cross-Platform Desktop Apps**
+
+- Electron + Vite for fast, TypeScript-first desktop apps
+- MongoDB for local and cloud data storage
+- Secure IPC patterns, native integrations, and packaged releases (electron-builder, auto-updates)
+
 **Developer Tools & Content**
 
 - Building tools that solve real developer problems
@@ -60,7 +66,7 @@ Electron.js • Expo • Adobe Creative Suite • Figma • Blender
 
 ## 🎯 Current Focus
 
-- 🔨 Building production-ready tools with Next.js 15 and PostgreSQL
+- 🔨 Building production-ready tools with Next.js, MongoDB and PostgreSQL
 - 📱 Exploring React Native architecture patterns
 - 🌐 Contributing to open-source TypeScript projects
 
