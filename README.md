@@ -15,7 +15,7 @@
 
 ## � Technical Stack
 
-**Frontend:** TypeScript • React • Next.js • React Native • TailwindCSS • Three.js  
+**Frontend:** TypeScript • React • Next.js • React Native • TailwindCSS • Gsap Animations • Three.js  
 **Backend:** Node.js • Express.js • PostgreSQL • MongoDB • JWT  
 **Tools:** Git • Vercel • Firebase • Electron • Expo • Figma
 
