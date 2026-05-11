@@ -1,91 +1,42 @@
-# Hey, name's Morgan 👋🏾
+**Full-Stack TypeScript Engineer** | I ship production-ready applications that solve real problems.
 
-**Full-Stack Software Engineer** building production-ready applications with TypeScript, React, and Next.js.
-
-I ship real products.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-morgan24th.com-blue?style=flat-square)](https://morgan24th.com)
-[![X](https://img.shields.io/badge/X-@morgan24th-black?style=flat-square&logo=x)](https://x.com/morgan24th)
-[![Instagram](https://img.shields.io/badge/Instagram-@morgan24th-E4405F?style=flat-square&logo=instagram)](https://instagram.com/morgan24th)
+[Portfolio](https://morgan24th.com) • [X](https://x.com/morgan24th) • [Instagram](https://instagram.com/morgan24th)
 
 ---
 
 ## 🚀 What I Build
 
-**Full-Stack Web Applications**
-
-- TypeScript-first development with Next.js and React
-- Database design and optimization with PostgreSQL & Prisma
-- RESTful APIs with Express.js and Next.js API routes
-- Type-safe, scalable architectures for production
-
-**Cross-Platform Mobile Apps**
-
-- React Native with Expo for iOS and Android
-- Native performance with JavaScript efficiency
-- Shared codebases with web applications
-
-**Cross-Platform Desktop Apps**
-
-- Electron + Vite for fast, TypeScript-first desktop apps
-- MongoDB for local and cloud data storage
-- Secure IPC patterns, native integrations, and packaged releases (electron-builder, auto-updates)
-
-**Developer Tools & Content**
-
-- Building tools that solve real developer problems
-- Open-source contributions and community engagement
+- **Full-Stack Web Apps** - TypeScript-first React/Next.js with PostgreSQL & Node.js
+- **Cross-Platform Mobile** - React Native apps sharing codebases with web
+- **Desktop Applications** - Electron + Vite with MongoDB and native integrations
+- **Developer Tools** - Open-source solutions for real engineering challenges
 
 ---
 
-## 💼 Technical Expertise
+## � Technical Stack
 
-**Frontend Engineering**
-
-```
-TypeScript • React • Next.js • React Native • Vite
-TailwindCSS • Material-UI • Three.js • Chart.js
-React Hook Form • Zustand • HTML5 • CSS3
-```
-
-**Backend & Database**
-
-```
-Node.js • Express.js • PostgreSQL • MongoDB • MySQL
-Prisma ORM • Firebase • SQLite • JWT Authentication
-```
-
-**Development Tools**
-
-```
-Git • Vercel • Firebase • Postman • Yarn
-Electron.js • Expo • Adobe Creative Suite • Figma • Blender
-```
+**Frontend:** TypeScript • React • Next.js • React Native • TailwindCSS • Three.js  
+**Backend:** Node.js • Express.js • PostgreSQL • MongoDB • Prisma ORM • JWT  
+**Tools:** Git • Vercel • Firebase • Electron • Expo • Figma
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Building
 
-- 🔨 Building production-ready tools with Next.js, MongoDB and PostgreSQL
-- 📱 Exploring React Native architecture patterns
-- 🌐 Contributing to open-source TypeScript projects
+Production tools with Next.js, React Native architecture patterns, and open-source TypeScript contributions.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
-**Looking for collaboration or have opportunities?**
-
-- 💼 Portfolio: [morgan24th.com](https://morgan24th.com)
-- 🐦 X/Twitter: [@morgan24th](https://x.com/morgan24th)
-- 📧 Email: sarpong.prince28@gmail.com || prince@morgan24th.com
+**Portfolio:** [morgan24th.com](https://morgan24th.com)  
+**Email:** sarpong.prince28@gmail.com  
+**Social:** [@morgan24th](https://x.com/morgan24th)
 
 ---
 
 <div align="center">
-  
-### 💡 "Full-Stack TypeScript Developer."
 
-_Building things that matter, one commit at a time._
+**Building things that matter, one commit at a time.**
 
 </div>
